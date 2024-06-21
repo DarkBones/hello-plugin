@@ -8,5 +8,5 @@ Using `lazy.nvim`:
 
 ```lua
 require("lazy").setup({
-    'yourusername/hello-plugin',
+    'DarkBones/hello-plugin',
 })
